@@ -18,8 +18,6 @@ What do Portuguese property listings reveal about price? This project cleans 184
 - [Data cleaning notebook](portugal_data_cleaning.ipynb)
 - [Raw data](portugal_listings_raw.csv) and [clean data](portugal_listings_clean.csv) (too large to preview on GitHub, download to view)
 
-To rerun the cleaning, keep the notebook and the raw CSV in the same folder, install pandas and run all cells.
-
 ## Data and cleaning
 
 The raw dataset has 184,332 listings and 23 columns. The notebook cleans it in six steps:
@@ -34,6 +32,13 @@ The raw dataset has 184,332 listings and 23 columns. The notebook cleans it in s
 | 6. Merge labels | Combined "NC", "No Certificate" and "Not available" into "Not Certificated" | Three labels meant the same thing, and merging gives one clean group |
 
 **Result:** 148,593 listings and 8 columns with no missing values, which is about 81% of the raw rows.
+
+## How to run
+
+1. Install the dependencies: `pip install pandas jupyter`
+2. Download `portugal_data_cleaning.ipynb` and `portugal_listings_raw.csv` into the same folder
+3. Open the notebook and run the cells in order to reproduce `portugal_listings_clean.csv`
+4. The analysis itself is in the [Google Sheets](https://docs.google.com/spreadsheets/d/1mHKexepp26TlmmocqAJqM_4p-Vnli5B6poI3LY1lq_U/edit), so there is nothing else to run
 
 ## How to read the findings
 
