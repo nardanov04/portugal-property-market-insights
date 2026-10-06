@@ -36,22 +36,22 @@ The final clean dataset has 148,593 rows and 8 columns.
 
 ## Key findings
 
-![Average price by district](images/q1_price_by_district.png)
+![Average price by district](images/Average%20price%20by%20district.webp)
 
 - Average prices differ widely by district: Lisboa is the highest at about €612k and Castelo Branco the lowest at about €116k.
 
-![Energy certificate pivot table](images/q5_energy_certificate_pivot.png)
+![Energy certificate pivot table](images/Energy%20certificate%20pivot%20table.png)
 
 - Better energy ratings generally go with higher prices: A and B listings average roughly €580k to €660k, while F, G and uncertified listings average about €280k to €290k.
 - Smaller properties have a higher price per m², and listings with more facilities tend to be priced higher.
 
-![Flagged districts](images/q7_flagged_districts.png)
+![Flagged districts](images/Flagged%20districts.webp)
 
 - Six districts combine high listing volume with competitive pricing: Porto, Braga, Coimbra, Aveiro, Santarém and Leiria.
 
 ## Recommendations
 
-![Conclusion and recommendations slide](images/recommendations_slide.png)
+![Conclusion and recommendations slide](images/Conclusion%20and%20recommendations%20slide.webp)
 
 ## Limitations
 
