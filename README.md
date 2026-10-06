@@ -1,2 +1,2 @@
 # portugal-property-market-insights
-End-to-end analysis of Portugal's property market: 173k raw listings cleaned to 148k with pandas, then 7 business questions answered in Google Sheets and presented with recommendations.
+Python and Google Sheets analysis of 148k Portuguese property listings: data cleaning, price patterns by district, type, size and energy certificate, and recommendations for a real estate business.
